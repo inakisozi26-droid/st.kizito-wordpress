@@ -1,0 +1,1 @@
+<footer class="site-footer"><p>St Kizito SS Kisule, P.O. Box 123, Luweero | TEL: 0704675911 / 0784159927 | Email: stkizitokisule@gmail.com</p></footer><?php wp_footer(); ?></body></html>
